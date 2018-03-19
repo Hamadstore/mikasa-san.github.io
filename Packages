@@ -6,10 +6,10 @@ Depends: mobilesubstrate, firmware (>= 10.0), com.rpetrich.rocketbootstrap
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3
 Filename: ./debs/flex3beta_3~Beta64_iphoneos-arm.deb
-Size: 10355332
-MD5sum: a37d09ce5c4599f99a8b2a9cc694426b
-SHA1: 5a27e2d137e3788c5685e6e2e943bf1ec3e7b29c
-SHA256: 3b2af3e4e9882b145670cc0db09c1dac2fa653370f6581e198aaf6d58b21ae2f
+Size: 10355340
+MD5sum: d4ac15669f4467f286d32b05a89302da
+SHA1: bf9e91140bedc75f0e2f824ebe352c84ba4dbcb9
+SHA256: 33d5144c2c6a2f86c05f57e66a8ff703be516c43b3e0e98ea8adf213851d417f
 Section: Tweaks
 Description: Develop your own tweaks and share them on the Flex Community Cloud
 Author: John Coates
@@ -25,10 +25,10 @@ Conflicts: org.coolstar.themelib, anemoneteam.anemone, winterboard, com.codethem
 Replaces: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, com.codethemed.iconbundles, com.idd.iconomatic
 Provides: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, org.coolstar.customclock, com.codethemed.iconbundles, com.idd.iconomatic
 Filename: ./debs/com.anemonetheming.anemone_2.4.0_iphoneos-arm.deb
-Size: 3840590
-MD5sum: b430f1f0ad1c3e2d2633d9d75f4f20ce
-SHA1: 0955889d1e6710acd4ebe4d12f37e07aefa11ca1
-SHA256: 1f56b7f370d16b00e095bcdab1b11eb8cecc77c56a867e4c800a80929201ec15
+Size: 3840598
+MD5sum: dde15a5bb42dbd49f3995708e7d79b50
+SHA1: ed02b8a6aeafdeaa1045ff00f6f65b29b8866ba3
+SHA256: e94e45767bc1b7d0c5a89211dd4f2ebadfe7598196eeef3dbb50abdda0236f64
 Section: Tweaks
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anemoneDp
@@ -44,13 +44,12 @@ Package: com.cpdigitaldarkroom.barmoji
 Version: 1.0-arm64
 Architecture: iphoneos-arm
 Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
-Installed-Size: 72
 Depends: mobilesubstrate
 Filename: ./debs/com.cpdigitaldarkroom.barmoji_1.0-arm64_iphoneos-arm.deb
-Size: 7040
-MD5sum: f2e8b706f30253bf16a767ae149733c4
-SHA1: c53d35da5b7a563ae016c4824065394a3a9b1360
-SHA256: 9af21d2396dfa28dc656240a2dc08c98761f845c77ea986bf8035253054f180c
+Size: 7024
+MD5sum: f97e1cc813d5603460790b6b9a987a5b
+SHA1: 986e7754bbb79235ea68821f32370602b9bbc139
+SHA256: 70eb95dc4faf338ec8c379cc2c19e3efdeb5d69660a40b77c968abf8c801f111
 Section: Tweaks
 Description: Quick emoji access for iPhone X
 Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
@@ -60,17 +59,15 @@ Package: com.cpdigitaldarkroom.fastunlockx
 Version: 1.2-arm64
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 246
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debs/com.cpdigitaldarkroom.fastunlockx_1.2-arm64_iphoneos-arm.deb
-Size: 16638
-MD5sum: 32f221b83a9e885544e4b5f76707dfe9
-SHA1: 70d82a2a65e506ead3fe6e06920148fba30578bf
-SHA256: 415dbbf1657b41d3eeaa4d6acf28827b759765fe51b38dc34a6d6726470d3392
+Size: 16594
+MD5sum: 6a2906e071fb4c4a0acf43feaac42ebb
+SHA1: a917a307fec7d036d61e3a1838d335abe62262c8
+SHA256: 2ba0365875e7bdd0c4293a5b135b5e1a8ff0337cb4513e45eddd4185790b8946
 Section: Tweaks
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastunlockxDp
 Description: Faster unlock for iPhone X
-Tag: purpose::extension, compatible::ios11
 Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastunlockxDp
 Dev: cpdigitaldarkroom
@@ -86,9 +83,9 @@ Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.kael.inapp_0.0.1-4_iphoneos-arm.deb
 Size: 2432
-MD5sum: a469ec33331214ad459f57e8b53a03a5
-SHA1: da551ae4d2f9acb87af4f95f28ca42946845333e
-SHA256: 3a174ac737b8e23a795a44ef803fa3991bf8422a7d0a2deeea40a45c65ec8dfb
+MD5sum: 5d0a77882b2036b7f752ca1727c93f10
+SHA1: f086e409d202addbfba8e43286041323ae332054
+SHA256: 064bdb05db439bd66d5363aa2273fa7d1b0130d4c04fc869a63d38c6970d6448
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: System Administrator
@@ -101,9 +98,9 @@ Maintainer: Mehul Rao
 Depends: mobilesubstrate
 Filename: ./debs/com.mehulrao.ytdark_1.0-arm64_iphoneos-arm.deb
 Size: 2548
-MD5sum: 3e07801b02567f6876a07a85c4e08499
-SHA1: 0690335c8fe8d0b670dbf51e73aafcb03907928f
-SHA256: 38b2fe8228a8f80d485c6bc197190a673212e559c046f0fe03ef82db2bd7368c
+MD5sum: f21762ee62cf78f325570d7a3996f492
+SHA1: 0f49a48c6a93813a2130c0a9f6375c6d8c7a6681
+SHA256: a8e27688ddcaa25fb1db926e0c6c0a164535df4e287a972df00cd1a638330b07
 Section: Tweaks
 Description: Makes YouTube dark
 Author: Mehul Rao
@@ -113,17 +110,15 @@ Package: com.r333d.cylinder
 Version: 1.0.7
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 899
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debs/com.r333d.cylinder_1.0.7_iphoneos-arm.deb
-Size: 212120
-MD5sum: 73022681d88d90844eefccba236f2617
-SHA1: f7c5bba605400ddb238070d5a3979bbb267669ae
-SHA256: 7fda5ace238b301671aad518a77256b019db2d4a91209dbe3efafa8e1a09b283
+Size: 212068
+MD5sum: 8e13884fcc6fb389389ca0c2c6de7597
+SHA1: bdf52e51c1fd011b293c7da30ad2e22ed10a7038
+SHA256: 22e79d28026b65e1075ff8fc95f3448c9d36424253ca399fd0682c07f6a45238
 Section: Tweaks
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
 Description: Make your icons dance
-Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
 Author: Reed Weichler <rweichler+cydia@gmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
 Dev: rweichler
@@ -135,17 +130,15 @@ Package: com.ruler225.videohud
 Version: 2.1-arm64
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 124
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.ruler225.videohud_2.1-arm64_iphoneos-arm.deb
-Size: 9360
-MD5sum: 71e1d2d26210bf6f609f0d24205c2701
-SHA1: f83b4062c8d3ea673f8f575b6a968bc05b72cc1a
-SHA256: ae450740ab1862a041bf98743f36797d5a270e085999dc3e355f36dc6377c6ff
+Size: 9318
+MD5sum: 663ee652f756a469c9305e7625340a8d
+SHA1: ed1cc08eba79ceb3902623813a3e1a0f000af613
+SHA256: d27dbfb5c8d3747401ef1c41c1ed5247a2bca6287fa94a596d486923d9d0a76a
 Section: Tweaks
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=videohudDp
 Description: iOS 11 video player HUD used systemwide!
-Tag: purpose::extension, compatible::ios11
 Author: Youssef Mikhail <ymiscool@hotmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=videohudDp
 Dev: ymiscool
@@ -158,10 +151,10 @@ Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware(>= 11.0), mobilesubstrate
 Filename: ./debs/org.thebigboss.bridge_1.3.5-Electra_iphoneos-arm.deb
-Size: 10593878
-MD5sum: 33a068223549d4eb9f37727c84ba1120
-SHA1: 3476a2cd0721d165872cd3f9cf6032da7ffef12d
-SHA256: 3c5e7df991251b5da57a48846fdcc09ab7549d782c7afe418cfea0fd242c048d
+Size: 10593882
+MD5sum: e57b12ae58649b7160bffe2d258cc22f
+SHA1: a883a5b60f4c8e906e23fe82ad6a02928c69e569
+SHA256: 159f71d73a9512a7dbb05d1c6cb9746e4431b9dee51700ec34601b7ff6074986
 Section: Multimedia
 Priority: extra
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bridgeDp
@@ -177,14 +170,13 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debs/org.thebigboss.colorbadges_1.2.2_iphoneos-arm.deb
-Size: 48396
-MD5sum: c9733723b375fc3f783f218756c4a405
-SHA1: 734eea91af9d3bf430a4025ba21617f2beefd615
-SHA256: 32d05839acc97d9c81ff9411b93c263df8defc0ec8d8a9ae52f81e354db104df
+Size: 48370
+MD5sum: 68698bc222d291fe58f74dc65cfa339d
+SHA1: 76e6f26454d589a8f509f62ef78452610cc12aa4
+SHA256: b31fdb1b2462910a06f7ac14f29cebccd31e3293359a52f2d78396275872e9f8
 Section: Tweaks
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colorbadgesDp
 Description: Colorize your badges
-Tag: purpose::extension, compatible::ios11
 Author: David Goldman <help@golddavid.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colorbadgesDp
 Dev: David Goldman
