@@ -1,0 +1,8 @@
+Origin: Tweaks (64-bit only)
+Label: Tweaks (64-bit only)
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: (64-bit only)
