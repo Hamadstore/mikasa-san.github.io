@@ -6,9 +6,9 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0)
 Conflicts: com.a3tweaks.polus (<< 2.0.7)
 Filename: ./debs/applist_1.5.15-arm64_iphoneos-arm.deb
 Size: 30368
-MD5sum: d6459327e10a22aef7c83b73c8873e27
-SHA1: ab3f7020289af69a21a8a83e07afe7c52b2f8366
-SHA256: 25dbc926a1922d0ca734378e6354f9c73345d233c7fa88882c15dba217335c6b
+MD5sum: e6ced52537535ba5d811bd540a7259ac
+SHA1: 552b26ab10c94fa94c0c4133ab4bc3c6ebd9a3cd
+SHA256: 001ef7ade982d82b836c2c53e21a261aa49f4ac9c53a0c805944f8b6bd2a07a2
 Section: System
 Description: Allow extensions to read the list of installed apps
 Author: Ryan Petrich <rpetrich@gmail.com>
@@ -24,9 +24,9 @@ Maintainer: Jake Ihasz
 Depends: mobilesubstrate
 Filename: ./debs/com.aids.makecydiabuyagain_1.1-arm64_iphoneos-arm.deb
 Size: 2856
-MD5sum: e05706a84d10127494c38860a539ec8b
-SHA1: 5f278ade3c3c7f36241e015417b37cd2d49515a4
-SHA256: e8715401d6cbb2d8dcad08a14403af496c3ef4d7d54ccd170d2c90ebf7bebeeb
+MD5sum: c85b50ae36c6adb1028cfe0eaa5cccbf
+SHA1: eeb49703bf08c7cc907fe6dcd77e0cc4ab79b3b0
+SHA256: 9eade62ef57877c8bf499ee596b953860963443feee15f1a85ba3454929becac
 Section: Tweaks
 Description: Enable Cydia to purchase any package on iOS 11+
 Author: Jake Ihasz
@@ -42,9 +42,9 @@ Replaces: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, 
 Provides: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, org.coolstar.customclock, com.codethemed.iconbundles, com.idd.iconomatic
 Filename: ./debs/com.anemonetheming.anemone_2.4.0_iphoneos-arm.deb
 Size: 1726952
-MD5sum: 969f914685807d8e164fcefda12c3884
-SHA1: 1f537f158bc5bb1ed3ad1fc343c35a02a2b6e0ad
-SHA256: 3082aa2870b809bdcf866f867b688bd0825baff0a6afd06dc172137dfc6e30aa
+MD5sum: c8e9ccdf762994eb84dc64127276c36b
+SHA1: 189c20617be6b53b11226cf8f2b9b51997e8878f
+SHA256: 5566f6d10e2df1df41639cc9700b0c926658ebeb64ce736fccd31e3c3390723a
 Section: Tweaks
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anemoneDp
@@ -63,9 +63,9 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware(>= 11.0)
 Filename: ./debs/com.ashapps.wifipasswordslist_1.2_iphoneos-arm.deb
 Size: 636444
-MD5sum: e163f2a95892c0bff25dcf9ae52237da
-SHA1: 237860e02bec13bc0573632baa6829a4f1e8682a
-SHA256: 04de77b350d348ef3b315d0162a356d4f36a4626b9cb404bd55ac3a91b7ec87c
+MD5sum: 172faa4b7d8663f26c32ac36c524122a
+SHA1: 85eb5667fb06f1a355701b7675dd41676dbf7ab3
+SHA256: 9c296c7965930893f982dc2a9c41794de5f3c60957ac5a3ac62389290df12875
 Section: Utilities
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifipasswordslistDp
 Description: View saved wifi passwords and other info
@@ -83,9 +83,9 @@ Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.cpdigitaldarkroom.barmoji_1.0-arm64_iphoneos-arm.deb
 Size: 6252
-MD5sum: 30d558da5888f500c12df09f1b47f274
-SHA1: 996381d15433f393fc0d772673e8c05078ea0322
-SHA256: 1ebc22409fa9d19bac85e1329705aec4b382a94e60a312806835cfcd4f5de816
+MD5sum: ccabbc1ecc650aca2807053e51cdefa3
+SHA1: 36f17c4d430ab422d8165dc5dfa798dda31d0ddc
+SHA256: 3e82c169f1e527f1081b6087538201f7dbe9b49bfa618a06996e7cb0485c7886
 Section: Tweaks
 Description: Quick emoji access for iPhone X
 Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
@@ -98,9 +98,9 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debs/com.cpdigitaldarkroom.fastunlockx_1.2-arm64_iphoneos-arm.deb
 Size: 13976
-MD5sum: 47bbcfaee82d6ae481f9a366b5371f2f
-SHA1: 1cc12e443d6b0e9acf579a9990bd7b8d7a5acf4d
-SHA256: 0eaa28a96373e07caf26990728bfc0cf63f051bb502bb802ccba76d35ce2fad9
+MD5sum: 9f9ac0e3b4b79bae0b704cea40416a59
+SHA1: 2e28635c9db501e41c4a7d7e8fec4db4c30153bf
+SHA256: b40bb2f7a33543416d0f3093b8825a846fabe2fac52ade29606d6ea1b604b4a4
 Section: Tweaks
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastunlockxDp
 Description: Faster unlock for iPhone X
@@ -119,9 +119,9 @@ Installed-Size: 292
 Depends: mobilesubstrate, firmware (>= 11.0)
 Filename: ./debs/com.cydiageek.byehomebottombarx_1.1-arm64_iphoneos-arm.deb
 Size: 9980
-MD5sum: a5e8f3fbe9f4d8c39d2e79cd5626c7c8
-SHA1: ff6e199c9e4853191c2f0026572ef8dc4b9ba8ea
-SHA256: f6f5e896e66411705edd4a787ba6a254a0aaa8f8b9db5ee46b58914e517cb7af
+MD5sum: a905b3daca01521d3c67dc6c572f4cca
+SHA1: d1f2703d9933b27791bec288cdc15dde8b0c354b
+SHA256: 08c76cc37feb96882ac3b64d9ce24237f3f0f41bf03f0e7edabf1be806fb7e6b
 Section: Tweaks
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byehomebottombarxDp
@@ -142,10 +142,10 @@ Pre-Depends: firmware (>= 10.0)
 Depends: mobilesubstrate, applist (>= 1.5.13)
 Conflicts: com.ianb821.guestmode, org.thebigboss.guestmode
 Filename: ./debs/com.ianb821.guestmode2_1.0.1-39+debug_iphoneos-arm.deb
-Size: 81384
-MD5sum: a02100100023d0c5699b6bd6f9fae97e
-SHA1: a034c073971f7fee572348c1fc2be2b2111927a1
-SHA256: 0a476c0733538aebd5a61ee53da29a45fc96b3bba540d331c101225148395cf9
+Size: 81464
+MD5sum: 44635df3b52bf949996328840eabcfb0
+SHA1: 936cb0e80c2ab58688d4999850456517630a5559
+SHA256: 94b262f76ba8b06e906825d2e9b4b6f6a7f8152efed27490bcd90d9ed45ee749
 Section: Tweaks
 Description: Enable a Guest Mode that only allows the user access to the apps that you choose.  Easily entered by tapping the “Guest” button from the lock screen.
 Author: Ian Burns <ianb821@gmail.com>
@@ -160,10 +160,10 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 10.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, Flex3, Flex3beta
 Filename: ./debs/com.johncoates.flex3_3.0.1_iphoneos-arm.deb
-Size: 7909048
-MD5sum: c21be54257f2f4a4116740d6f8b64cbb
-SHA1: ca979008f08c859c4121f4088de0309e58514a1f
-SHA256: 5508ffeaa1d1fd2435a06e33380ce71f7630b56e217dd22dce6481b2e5560121
+Size: 7907376
+MD5sum: b6f3221a2f1b462e8c67a4e2355f2382
+SHA1: 783347df0be989e87235626878dbaaf1198a12a9
+SHA256: 318327ea25f0ff2f768fe956c8768ef3c79fe8cc1fb9e868b3c3d4e02a626c32
 Section: Tweaks
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flex3Dp
 Description: Develop your own tweaks and share them on the Flex Community Cloud
@@ -183,9 +183,9 @@ Depends: mobilesubstrate
 Conflicts: com.jontelang.snapper
 Filename: ./debs/com.jontelang.snapper2_1.4-debug_iphoneos-arm.deb
 Size: 134656
-MD5sum: 99bed92704866531a3949703b7671e45
-SHA1: e5ca693589d31fb2bd87612cd0ecf4ff2fea2010
-SHA256: 9ca1be954da07f0c5c8ce536762b7cf9d135d0d09f669584b46508c627e36a09
+MD5sum: 1ec678d1d942080c81688ec214c55833
+SHA1: 155a8995a0eb555f272e1aafba9fe112e4c52039
+SHA256: 5003b670759275c03c7046048aa8be1bb5d152b8f2b8b3e30fc5fdd2a3cb5c42
 Section: Tweaks
 Description: Pin screenshots on the screen.
 Author: Jonathan Winger-lang
@@ -198,9 +198,9 @@ Maintainer: kael
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.kael.inapp_1.0-arm64_iphoneos-arm.deb
 Size: 10132
-MD5sum: 584fc67684dd1591331e78e58319efd2
-SHA1: 5476b3567c44e5db9875836f9129e19323ce9403
-SHA256: 8d75f3e9df206132fb2260489aa37b5634f9fbb7d2b15841c253c1442c1d7251
+MD5sum: f28b7dcc3c3d8e0de537c56b86572d5f
+SHA1: 6c8712dbcdca6dc8e485c7ffde9bdfcc55189b77
+SHA256: 03305b1c9dfcdc8d6c702544b31e735ccdb3b82927723f02fea83c8098e9d032
 Section: Tweaks
 Description: In-App Purchases hacking
 Author: kael
@@ -213,9 +213,9 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 11.0)
 Filename: ./debs/com.malcolmhall.wifipasswords_3.1.0_iphoneos-arm.deb
 Size: 485752
-MD5sum: c8a586a593a6ab8484edbbd28ba75673
-SHA1: 4d001e8893903f79535da49dabf78beab06e1672
-SHA256: feda78648cfee1611124bf7a65ee92916c560ab3763f1e565af57274fc937cb4
+MD5sum: 3aa617e04dfd71c84492c18337e24f37
+SHA1: 12383ddcc9456dc4d505555e0c61208f4e62f8de
+SHA256: ba1569957cd551d02ca1850c7de782bae292fee6301a51567deeefe13b7d9577
 Section: Utilities
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifipasswordsData
 Description: shows previously entered wifi passwords
@@ -233,9 +233,9 @@ Maintainer: Mehul Rao
 Depends: mobilesubstrate
 Filename: ./debs/com.mehulrao.ytdark_1.0-arm64_iphoneos-arm.deb
 Size: 2336
-MD5sum: a3c398959eb3580ba074d40aecdc9a7a
-SHA1: 5238f6725d16a23a837d1c9038a642d9e07b7c6a
-SHA256: c5c5026347c9c784d88b2e599f5aaa8ffa8d0cec26e9964f2abe655da640df65
+MD5sum: b24191db4355eaaab5aa3abcc94d2c29
+SHA1: 510eb4716d1420e6c41e59d766097e8b0b658eba
+SHA256: cc7fadebe7adfd3e8e4d3a277ea6084e5b58df1c087db01654684d36baaebab2
 Section: Tweaks
 Description: Makes YouTube dark
 Author: Mehul Rao
@@ -248,9 +248,9 @@ Maintainer: Mikasa
 Depends: firmware (>= 10.0), com.anemonetheming.anemone
 Filename: ./debs/com.mikasa.applelogo_1.0_iphoneos-arm.deb
 Size: 14152
-MD5sum: 4fb10f4d70a597a4c1258c465cacd3ac
-SHA1: b9d6197653400cda696ab24f71d34b037e115221
-SHA256: deceb936b8b534d5bd5e6ea919febef66ceb483933aaacdeca6c03991d238b7b
+MD5sum: 108d75b529cdc305b6393897ededc702
+SHA1: da58ab36670723d52c023ba89c578b1ef7eec22e
+SHA256: 9a1663d2d393ea5ccd1c88d68a199b44a0d4b80fbd8b54807fdf268d4b47b36e
 Section: Themes
 Description: Apple Logo for Respring
 Author: Mikasa
@@ -264,9 +264,9 @@ Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: com.neinzedd9.percentagecirclex
 Filename: ./debs/com.neinzedd9.percentagebatteryx_1.0.2-arm64_iphoneos-arm.deb
 Size: 3332
-MD5sum: b1dc602ecc93d478638826a0bd861009
-SHA1: 83030b03a3dcb35330f9bee982785d9686ed098b
-SHA256: 2b0f51ed77b7911757cf1ffe7257de22c8125bdc1ffe3665db08ad466e00a21e
+MD5sum: bfaf3e457736787664dd7aa8d1530794
+SHA1: fef2dc417dd33650abe58191a50b0427abab4736
+SHA256: 9a2ab4cb8bd767b5970b92ad0b392c1570a5dbfed15ce407758a0ea775464698
 Section: Tweaks
 Description: Adds the percentage inside of the battery on iPhone X.
 Author: NeinZedd9
@@ -280,9 +280,9 @@ Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: com.neinzedd9.percentagebatteryx
 Filename: ./debs/com.neinzedd9.percentagecirclex_1.0.1-arm64_iphoneos-arm.deb
 Size: 3592
-MD5sum: 3b40cd5d2859398ba5d94aa509b6c02c
-SHA1: 8a809aa29f57f19132a5a36e366353c635352b89
-SHA256: f6b6fc7d78bb28a2c92a15be796f3d2bc26e9f2789883eb0c3b91c9b474d43c3
+MD5sum: 81aa5aa05b80e4d54093b9a118035aa7
+SHA1: 8b656c4e50dd55400dfd72ba61fa53951aedbc36
+SHA256: a8bd51ea5a8e360a45459fb2ffabfbc6f04f83d82aea4196c829ea57a0806bb0
 Section: Tweaks
 Description: Adds the percentage inside of a circle on iPhone X.
 Author: NeinZedd9
@@ -295,9 +295,9 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debs/com.r333d.cylinder_1.0.7_iphoneos-arm.deb
 Size: 173564
-MD5sum: dfac93ce323cf06a762d56695def7774
-SHA1: ebf4636ecef4bc826b10073ac29492571cae13c4
-SHA256: f2a9a7d00ca669be78493678ecc2e2604546be18e0ac469f4b450fdee48aa642
+MD5sum: e99a952f5824811a64512a50effb9695
+SHA1: 030a6ecc7601ca2f5148bc46c4ca47345ad2cba3
+SHA256: 58810732c86fa1e74979c86a8c89b541aed407810c64e9698cb0f8a3ffcbf29d
 Section: Tweaks
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
 Description: Make your icons dance
@@ -315,9 +315,9 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.ruler225.videohud_2.1-arm64_iphoneos-arm.deb
 Size: 7672
-MD5sum: ab0458b70cfee38aabc42b025850061c
-SHA1: b2bcce3a103efa6abaa4091ebc983fd61526c086
-SHA256: 6e61abb359395b17542b7a39501f9ce701ea8f8d389f7477ba19fbcd2568367c
+MD5sum: 311893bc38b06dc8ba373d8b39ff300a
+SHA1: 0a3c24bfdf1e89dc92e9a2567115ef2fdc9efd23
+SHA256: db61b4892964735b0c146eb31c7ac52c7f50221d9d0712f46113f30b3c45518f
 Section: Tweaks
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=videohudDp
 Description: iOS 11 video player HUD used systemwide!
@@ -334,9 +334,9 @@ Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.saurik.ext3nder_1.0_iphoneos-arm.deb
 Size: 3433208
-MD5sum: 5a4abfa26706b90ef939f6444ae0073e
-SHA1: 31b5abe0b5ea2bb0f3a52cf9be62624e1dfa68db
-SHA256: 9a4c321b89b2a813c8d95c3bf71e91581749dc6d20c631257107281abe915995
+MD5sum: 3d04ee0849898e0b993936d2d52817e4
+SHA1: 9f359e29a7928fcdde74d6abb5c24e6d4507331f
+SHA256: 9a1225190ff1379220f01e151d26f39e9de8a5e0713741e4bddf0642b417cf3b
 Section: Utilities
 Description: Cydia Extender Installer With Extra Features
 Author: Jay Freeman (saurik) <saurik@saurik.com>
@@ -352,9 +352,9 @@ Replaces: us.hackulo.appsync50
 Provides: appsync
 Filename: ./debs/net.angelxwind.appsyncunified_9.0-arm64_iphoneos-arm.deb
 Size: 14240
-MD5sum: 25c14aa7bec11fe3f12f2da6b1c23beb
-SHA1: 9013fc515563d0619594b646b9f54849365a6b7a
-SHA256: d0bf106dc366776009ba5e6cfe240a8e4192f6126afd2f9de331446ea2a32152
+MD5sum: 2053a27e969b25d89a564d8ac057af18
+SHA1: 0085d7cf72b714913923132eff3d65af95b36181
+SHA256: 2b69204bb2b4720b0f9c2451a39a47fab0fe2268cbece7ac59eec7b707dcb803
 Section: Tweaks
 Homepage: https://cydia.angelxwind.net/
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
@@ -370,9 +370,9 @@ Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
 Conflicts: net.limneos.callrecorder
 Filename: ./debs/net.limneos.audiorecorder_1.6-46_iphoneos-arm.deb
 Size: 1392080
-MD5sum: 72b1caa81e6f9fa505cae610126b47b3
-SHA1: fc383273c8383ddbaf16e2e942fc85a4b4ca7665
-SHA256: 724d9f698a3a022b7aa89ca92e4625f59fdfd823283a56dbab84bf2734ee986b
+MD5sum: b198eb29e5ac2ed871ff36466a682b08
+SHA1: 5cef80a35b5e65372d80dbe30e33007d78aaa4e7
+SHA256: 292a90fc09c3596355201c053457a1694a00618b3ebc548b4471eefbb9b1e39b
 Section: Tweaks
 Description: Most Advanced iOS Call Recorder Ever!
 Author: Elias Limneos <limneoselias@gmail.com>
@@ -387,9 +387,9 @@ Depends: mobilesubstrate, preferenceloader
 Conflicts: net.limneos.bioprotect
 Filename: ./debs/net.limneos.bioprotectx_2.3-8-arm64_iphoneos-arm.deb
 Size: 451460
-MD5sum: 15fa3b2e974aef0018db4245ae0a4192
-SHA1: c478f10957fff9b505810db50025025d8d2eafb2
-SHA256: 2f5ae1c5a89e3ace76c1b882431c9068c49d22d545eb6be3305f6aac4cccd26d
+MD5sum: 578d3bcc34e2b21c444f375c89c63aa4
+SHA1: 682cc48d3144e74c850f50fd06dd9e8fede68fa6
+SHA256: 53fa10c4d1e2eecf7a771019ca2dcda60fc86732c1d0799be752f3e6b7902130
 Section: Tweaks
 Description: Protect your apps with Touch/Face ID!
 Author: Elias Limneos <limneoselias@gmail.com>
@@ -403,9 +403,9 @@ Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware(>= 10.0), mobilesubstrate
 Filename: ./debs/org.thebigboss.bridge_1.3.5-Electra_iphoneos-arm.deb
 Size: 9859616
-MD5sum: 9f2334b00238085efa1ba5a2d258e306
-SHA1: 376c7e24cb034902a08aa35776d910eba8b90192
-SHA256: 9e50d03894e7c29a89a9962e9bc05628b9b22eea73f60982cfc5f7e9698124f9
+MD5sum: 2a756bf8650a5e2ccd0b02213f96777f
+SHA1: 142de8b47235f986abd1ee8ebe034dad31eb222e
+SHA256: e0c1cd8170cae6c1422150f549f57b216314bdc40ba6f5df54a713e40c8f8482
 Section: Multimedia
 Priority: extra
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bridgeDp
@@ -422,9 +422,9 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debs/org.thebigboss.colorbadges_1.2.0-arm64_iphoneos-arm.deb
 Size: 43456
-MD5sum: 403dc95227541298e340e361c21f96d8
-SHA1: 020768992c3117809a107f6ebf8e74832f5a99b9
-SHA256: b90ad651ca3d65f1a24fe4998d51e19fad2142140ad5b50f0d30c92770a536c6
+MD5sum: af4cc05b0277611638f4ea1578019dcc
+SHA1: 2b70773c42d476f5fc085110dbecd335382961a0
+SHA256: 42cadaa4aa14f465dc916d92b5d961840b310cf576fd1094a8698c7d0e2c9217
 Section: Tweaks
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colorbadgesDp
 Description: Colorize your badges
@@ -442,9 +442,9 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate
 Filename: ./debs/preferenceloader_2.4-arm64_iphoneos-arm.deb
 Size: 11772
-MD5sum: 0da969b04e993d484d27fa67b83a92e7
-SHA1: f5a7efd0eb2a158e337e61f4c7b4495ef0e0e5bd
-SHA256: 6090401791841166cb78c211ff26aa7b2bcb9f5761c5afd414ab61c3e17708d8
+MD5sum: 3475123af9034af5dc195e087857fbe7
+SHA1: 3e809bffc9a3c24d268fa8cb4a2d0f27c7e3617c
+SHA256: 4657e60f01d43e650d47e980775c40c61e0270817750966392b0eed99a304209
 Section: System
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
 Description: load preferences in style
